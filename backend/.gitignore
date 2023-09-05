@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+.env
+*.git
+
+# Django stuff
+*.pot
+*.log
+*.log.*
+local_settings.py
+db.sqlite3-journal
+
+# FLAKE8
+.flake8
+
+# PyCharm Directory
+.idea/
+
+# VS Code Directory
+.vscode/
+
+# Node modules (if using Node.js in your project)
+node_modules/
+
+# Media and static folders (if you are excluding these from git)
+media/
+static/
+
+# Poetry files
+.pyenv/
+.poetry/
+__pypackages__/
+
+
+
